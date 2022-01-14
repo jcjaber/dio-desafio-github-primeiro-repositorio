@@ -1,7 +1,7 @@
 # BootCamp Frontend Developer Banco Inter
 Repositório criado para o Desafio de Projeto que decidi nomear como BootCamp Web Developer.
 
-Aqui você irá encontrar as anotações e exercícios que fiz durante a aprendizagem dos cursos do BootCamp Web Developer Inter.
+Aqui você irá encontrar as anotações e exercícios que fiz durante a aprendizagem dos cursos do BootCamp Frontend Developer Inter.
 
 Antes de saber do desafio, eu já havia feito as anotações pelo aplicativo Notion, então defini esse repositório como uma espécie de revisão, onde depois que fiz o curso, exercícios e todas as anotações no Notion, eu releio e reorganizo tudo aqui neste repositório.
 
