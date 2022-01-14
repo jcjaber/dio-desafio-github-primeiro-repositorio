@@ -9,5 +9,12 @@ Espero que quem esteja vendo fique a vontade para comentar, somar e interagir, e
 
 Paz!
 
+## Índice
+
+1. Introdução a Lógica de Programação
+2. Estrutura de Dados
+3. Git & GitHub
+4. Introdução ao SCRUM
+
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
