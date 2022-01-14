@@ -1,4 +1,4 @@
-# BootCamp WebDeveloper Banco Inter
+# BootCamp Frontend Developer Banco Inter
 Repositório criado para o Desafio de Projeto que decidi nomear como BootCamp Web Developer.
 
 Aqui você irá encontrar as anotações e exercícios que fiz durante a aprendizagem dos cursos do BootCamp Web Developer Inter.
