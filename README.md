@@ -1,5 +1,13 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+# BootCamp WebDeveloper Banco Inter
+Repositório criado para o Desafio de Projeto que decidi nomear como BootCamp Web Developer.
+
+Aqui você irá encontrar as anotações e exercícios que fiz durante a aprendizagem dos cursos do BootCamp Web Developer Inter.
+
+Antes de saber do desafio, eu já havia feito as anotações pelo aplicativo Notion, então defini esse repositório como uma espécie de revisão, onde depois que fiz o curso, exercícios e todas as anotações no Notion, eu releio e reorganizo tudo aqui neste repositório.
+
+Espero que quem esteja vendo fique a vontade para comentar, somar e interagir, estou muito feliz com o BootCamp e, também, em ser mais ativo aqui no GitHub.
+
+Paz!
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
