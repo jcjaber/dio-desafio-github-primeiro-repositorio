@@ -9,7 +9,7 @@
 
 ### Elemento HTML
 
-![img1.JPG](/img1.jpg)
+![img1.JPG](img1.jpg)
 
 ### Estrutura básica
 

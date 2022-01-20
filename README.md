@@ -16,7 +16,7 @@ Paz!
 3. Git & GitHub
 4. Introdução ao SCRUM
 5. Introdução a criação de WebSites com HTML5 e CSS3
-6. Construindo páginas para internet com Bootstrap
+6. Construindo WebSites para internet com Bootstrap
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
