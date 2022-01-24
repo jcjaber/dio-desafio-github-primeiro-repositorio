@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+  font-family: 'Montserat', sans-serif;
+}
+
+body {
+  background-color: #D7BDE2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 420px;
+  background-color: #F2F3F4;
+  margin-top: 100px;
+  border: #34495E solid 2px;
+  border-radius: 5px;
+}
+
+h1 {
+  color: #7D3C98;
+}
+
+#inputDiv {
+  margin-bottom: 20px;
+  width: 260px;
+}
+
+.inputElements {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#inputAddButton {
+  background-color: #D7BDE2;
+  color: #7D3C98;
+}
+
+#list {
+  width: 260px;
+  padding: 0;
+}
+
+.items {
+  list-style: none;
+  padding-bottom: 10px;
+  color: #34495E;
+}
+
+.check-button {
+  background-color: #D7BDE2;
+  color: #7D3C98;
+  padding: 5px;
+  border-radius: 5px;
+}
