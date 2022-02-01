@@ -23,6 +23,7 @@ Paz!
 10. Variáveis e Tipos
 11. Funções
 12. Coleções
+13. Debugging e Error Handling
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
