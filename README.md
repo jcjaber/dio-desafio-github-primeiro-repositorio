@@ -21,6 +21,8 @@ Paz!
 8. Sintaxe Básica em JavaScript
 9. Sintaxe e Operadores
 10. Variáveis e Tipos
+11. Funções
+12. Coleções
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
