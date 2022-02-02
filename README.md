@@ -25,6 +25,7 @@ Paz!
 12. Coleções
 13. Debugging e Error Handling
 14. JavaScript Assíncrono
+15. Orientação a Objetos
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
