@@ -26,6 +26,7 @@ Paz!
 13. Debugging e Error Handling
 14. JavaScript Assíncrono
 15. Orientação a Objetos
+16. Map, Filter e Reduce
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
