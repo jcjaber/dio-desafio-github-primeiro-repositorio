@@ -28,6 +28,7 @@ Paz!
 15. Orientação a Objetos
 16. Map, Filter e Reduce
 17. Manipulando o DOM com JavaScript
+18. Programando com js (Desafios)
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
