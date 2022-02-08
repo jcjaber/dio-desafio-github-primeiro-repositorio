@@ -29,6 +29,10 @@ Paz!
 16. Map, Filter e Reduce
 17. Manipulando o DOM com JavaScript
 18. Programando com js (Desafios)
+19. SQL SERVER - Criando suas primeiras consultas
+20. Modelando um banco de dados
+21. As Boas Práticas com Banco de Dados
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Anotações no Notion](https://talented-verdict-0f7.notion.site/BootCamp-WebDeveloper-Banco-Inter-a7ce07d9355a482c957533b12d274884)
