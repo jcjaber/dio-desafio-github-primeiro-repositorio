@@ -37,6 +37,7 @@ Paz!
 24. Trabalhando com Componentes em ReactJS
 25. Introdução ao React Hooks
 26. Trabalhando com States e Effects no ReactJS
+27. Introdução a APIs e métodos HTTP
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Anotações no Notion](https://talented-verdict-0f7.notion.site/BootCamp-WebDeveloper-Banco-Inter-a7ce07d9355a482c957533b12d274884)
