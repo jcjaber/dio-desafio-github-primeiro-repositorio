@@ -35,7 +35,7 @@ Paz!
 22. Introdução ao ReactJS
 23. Desenvolvimento de aplicações para inernet com ReactJS
 24. Trabalhando com Componentes em ReactJS
-
+25. Introdução oas React Hooks
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Anotações no Notion](https://talented-verdict-0f7.notion.site/BootCamp-WebDeveloper-Banco-Inter-a7ce07d9355a482c957533b12d274884)
